@@ -6,6 +6,7 @@ var newobj = Object.assign ({[key]: value}, obj);
 }
 
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value){
+  var obj = { prop: 1 }
   
   
 }
