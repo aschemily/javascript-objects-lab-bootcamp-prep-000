@@ -19,5 +19,5 @@ return clone;
 
 function destructivelyDeleteFromObjectByKey(object, key){
   delete object[key];
-  
+  return newobject;
 }
