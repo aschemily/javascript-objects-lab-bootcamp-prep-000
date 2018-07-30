@@ -1,5 +1,5 @@
 var Objects = {obj:'recipes'}
 
 function updateObjectWithKeyAndValue(object, key, value){
- var newobj = 
+ var obj = { prop: 1 }
 }
