@@ -12,7 +12,7 @@ return object;
 }
 
 function deleteFromObjectByKey(object, key){
-var clone = Object.assing ({}, obj)
+var clone = Object.assing ({}, object)
 delete clone [key];
 return clone;
 }
