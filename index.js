@@ -12,5 +12,5 @@ return object;
 }
 
 function deleteFromObjectByKey(object, key){
-var clone = 
+var clone = Object.assing ({}, obj)
 }
