@@ -12,6 +12,5 @@ return object;
 }
 
 function deleteFromObjectByKey(object, key){
-  delete newobject.prop
-  return object;
+  delete object.key
 }
