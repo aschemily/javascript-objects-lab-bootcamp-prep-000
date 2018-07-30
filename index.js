@@ -13,6 +13,6 @@ return object;
 
 function deleteFromObjectByKey(object, key){
 var clone = Object.assing ({}, obj)
-delete clone.key;
+delete clone [key];
 return clone;
 }
