@@ -12,6 +12,6 @@ return object;
 }
 
 function deleteFromObjectByKey(object, key){
-  delete newobject
+  delete newobject.key
   return object;
 }
