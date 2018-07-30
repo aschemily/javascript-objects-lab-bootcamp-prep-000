@@ -19,5 +19,4 @@ return clone;
 
 function destructivelyDeleteFromObjectByKey(object, key){
   obj[key]= value
-  
 }
