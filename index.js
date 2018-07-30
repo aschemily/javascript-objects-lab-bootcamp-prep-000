@@ -18,5 +18,6 @@ return clone;
 }
 
 function destructivelyDeleteFromObjectByKey(object, key){
-  obj[key]= value
+  delete object[key];
+  
 }
